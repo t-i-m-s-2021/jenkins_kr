@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" tests="32" skipped="0" failures="0" errors="0" timestamp="2022-12-13T06:31:34" hostname="LAPTOP-GOCSKIF4" time="0.014">
+  <properties/>
+  <testcase name="testDetermineHandStrengthNaturalStraightFlush" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.002"/>
+  <testcase name="testDetermineHandStrengthInsideStraightViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthThreeOfAKindViaTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthFlushViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthThreeOfAKindViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthOutsideStraightViaTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthOutsideStraightViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthNaturalFullHouse" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthFourOfAKindViaTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthNaturalFlush" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthNaturalFourOfAKind" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthRoyalFlushViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthNaturalStraight" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthFiveOfAKindViaTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthRoyalFlushViaTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthFiveOfAKindViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.002"/>
+  <testcase name="testDetermineHandStrengthNaturalHighCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthInsideStraightViaTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthOutsideStraightFlushViaTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthNaturalRoyalFlush" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthPairViaOneWildCard1" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthPairViaOneWildCard2" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthPairViaOneWildCard3" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthPairViaOneWildCard4" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthNaturalPair" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthNaturalThreeOfAKind" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthOutsideStraightFlushViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthFullHouseViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthInsideStraightFlushViaTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthFlushViaTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthFourOfAKindViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthInsideStraightFlushViaOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

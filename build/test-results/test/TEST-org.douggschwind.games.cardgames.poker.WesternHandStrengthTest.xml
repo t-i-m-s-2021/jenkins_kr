@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-12-13T06:31:34" hostname="LAPTOP-GOCSKIF4" time="0.015">
+  <properties/>
+  <testcase name="testDetermineHandStrengthAceLowStraightFlush" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.002"/>
+  <testcase name="testDetermineHandStrengthStraight" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthRoyalFlush" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthFlush" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthHighCard" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthThreeOfAKind" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.004"/>
+  <testcase name="testDetermineHandStrengthFullHouse" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthTwoPair" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.002"/>
+  <testcase name="testDetermineHandStrengthAceLowStraight" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthPair" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.001"/>
+  <testcase name="testIsStrongerThan" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.0"/>
+  <testcase name="testDetermineHandStrengthFourOfAKind" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.001"/>
+  <testcase name="testDetermineHandStrengthStraightFlush" classname="org.douggschwind.games.cardgames.poker.WesternHandStrengthTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

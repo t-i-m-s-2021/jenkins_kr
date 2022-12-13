@@ -1,0 +1,38 @@
+org/douggschwind/games/common/DeckOfCardsTest.java
+ org.douggschwind.games.common.DeckOfCardsTest
+org/douggschwind/games/boardgames/monopoly/actioncard/DeckFactoryTest.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.DeckFactoryTest
+org/douggschwind/games/cardgames/common/PlayerTest.java
+ org.douggschwind.games.cardgames.common.PlayerTest
+org/douggschwind/games/chess/ChessBoardTest.java
+ org.douggschwind.games.chess.ChessBoardTest
+org/douggschwind/games/boardgames/monopoly/PlayerTest.java
+ org.douggschwind.games.boardgames.monopoly.PlayerTest
+org/douggschwind/games/cardgames/common/DeckFactoryTest.java
+ org.douggschwind.games.cardgames.common.DeckFactoryTest
+org/douggschwind/games/cardgames/common/FrenchSuitedPlayingCardTest.java
+ org.douggschwind.games.cardgames.common.FrenchSuitedPlayingCardTest
+org/douggschwind/games/dicegames/boggle/WordTreeTest.java
+ org.douggschwind.games.dicegames.boggle.WordTreeTest
+org/douggschwind/games/cardgames/wildcardpoker/DeucesWildHandStrengthTest.java
+ org.douggschwind.games.cardgames.wildcardpoker.DeucesWildHandStrengthTest
+org/douggschwind/games/cardgames/wildcardpoker/DeucesWildTestTwoPlayers.java
+ org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers
+org/douggschwind/games/chess/SquareTest.java
+ org.douggschwind.games.chess.SquareTest
+org/douggschwind/games/cardgames/euchre/ClassicEuchreTest.java
+ org.douggschwind.games.cardgames.euchre.ClassicEuchreTest
+org/douggschwind/games/cardgames/poker/WesternTestThreePlayers.java
+ org.douggschwind.games.cardgames.poker.WesternTestThreePlayers
+org/douggschwind/games/dicegames/boggle/BoardLocationsVisitedTest.java
+ org.douggschwind.games.dicegames.boggle.BoardLocationsVisitedTest
+org/douggschwind/games/dicegames/boggle/BoggleTest.java
+ org.douggschwind.games.dicegames.boggle.BoggleTest
+org/douggschwind/games/cardgames/wildcardpoker/OneEyedJacksWildHandStrengthTest.java
+ org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWildHandStrengthTest
+org/douggschwind/games/cardgames/wildcardpoker/OneEyedJacksHandStrengthTest.java
+ org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksHandStrengthTest
+org/douggschwind/games/cardgames/poker/WesternTestTwoPlayers.java
+ org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers
+org/douggschwind/games/cardgames/poker/WesternHandStrengthTest.java
+ org.douggschwind.games.cardgames.poker.WesternHandStrengthTest

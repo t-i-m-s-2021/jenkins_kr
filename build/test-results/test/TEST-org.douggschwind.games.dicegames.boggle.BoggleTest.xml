@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.douggschwind.games.dicegames.boggle.BoggleTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-13T06:31:35" hostname="LAPTOP-GOCSKIF4" time="0.022">
+  <properties/>
+  <testcase name="test4x4BoggleWordFindingLongerWordsBasedUponShorterWordsPresent" classname="org.douggschwind.games.dicegames.boggle.BoggleTest" time="0.015"/>
+  <testcase name="test4x4BoggleWordFindingQuPresent" classname="org.douggschwind.games.dicegames.boggle.BoggleTest" time="0.001"/>
+  <testcase name="test4x4BoggleWordFindingNoQuPresent" classname="org.douggschwind.games.dicegames.boggle.BoggleTest" time="0.001"/>
+  <testcase name="test5x5BoggleWordFindingNoQuPresent" classname="org.douggschwind.games.dicegames.boggle.BoggleTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

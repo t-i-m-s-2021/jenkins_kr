@@ -1,0 +1,214 @@
+org/douggschwind/games/boardgames/monopoly/actioncard/GetOutOfJailFreeCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.GetOutOfJailFreeCard
+org/douggschwind/games/cardgames/poker/Western.java
+ org.douggschwind.games.cardgames.poker.Western
+org/douggschwind/games/boardgames/monopoly/DeedRecorder.java
+ org.douggschwind.games.boardgames.monopoly.DeedRecorder
+org/douggschwind/games/dicegames/boggle/DieLetter.java
+ org.douggschwind.games.dicegames.boggle.DieLetter
+org/douggschwind/games/chess/BoardPosition.java
+ org.douggschwind.games.chess.BoardPosition
+ org.douggschwind.games.chess.BoardPosition$Column
+ org.douggschwind.games.chess.BoardPosition$Row
+org/douggschwind/games/boardgames/monopoly/space/PropertyBoardSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.PropertyBoardSpace
+org/douggschwind/games/boardgames/monopoly/GameBoard.java
+ org.douggschwind.games.boardgames.monopoly.GameBoard
+org/douggschwind/games/chess/moves/CastlingMove.java
+ org.douggschwind.games.chess.moves.CastlingMove
+org/douggschwind/games/boardgames/monopoly/space/JailSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.JailSpace
+org/douggschwind/games/chess/Player.java
+ org.douggschwind.games.chess.Player
+org/douggschwind/games/boardgames/monopoly/GameBoardFactory.java
+ org.douggschwind.games.boardgames.monopoly.GameBoardFactory
+org/douggschwind/games/chess/Chess.java
+ org.douggschwind.games.chess.Chess
+org/douggschwind/games/boardgames/monopoly/title/TitleDeed.java
+ org.douggschwind.games.boardgames.monopoly.title.TitleDeed
+org/douggschwind/games/boardgames/monopoly/space/GoSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.GoSpace
+org/douggschwind/games/boardgames/monopoly/policy/UseOfGetOutOfJailFreeCardPolicy.java
+ org.douggschwind.games.boardgames.monopoly.policy.UseOfGetOutOfJailFreeCardPolicy
+org/douggschwind/games/boardgames/monopoly/title/MonopolyDefinition.java
+ org.douggschwind.games.boardgames.monopoly.title.MonopolyDefinition
+ org.douggschwind.games.boardgames.monopoly.title.MonopolyDefinition$Identifier
+ org.douggschwind.games.boardgames.monopoly.title.MonopolyDefinition$Type
+org/douggschwind/games/cardgames/wildcardpoker/FourWildCardsHand.java
+ org.douggschwind.games.cardgames.wildcardpoker.FourWildCardsHand
+org/douggschwind/games/boardgames/monopoly/DiceRollResult.java
+ org.douggschwind.games.boardgames.monopoly.DiceRollResult
+org/douggschwind/games/dicegames/boggle/BoggleDice.java
+ org.douggschwind.games.dicegames.boggle.BoggleDice
+org/douggschwind/games/chess/piece/CaptureUponAdvance.java
+ org.douggschwind.games.chess.piece.CaptureUponAdvance
+org/douggschwind/games/boardgames/monopoly/actioncard/InvariantAmountActionCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.InvariantAmountActionCard
+org/douggschwind/games/boardgames/monopoly/policy/AggressiveUseOfGetOutOfJailFreeCardPolicy.java
+ org.douggschwind.games.boardgames.monopoly.policy.AggressiveUseOfGetOutOfJailFreeCardPolicy
+org/douggschwind/games/boardgames/monopoly/title/Title.java
+ org.douggschwind.games.boardgames.monopoly.title.Title
+org/douggschwind/games/boardgames/monopoly/actioncard/PlayerDebitCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.PlayerDebitCard
+org/douggschwind/games/boardgames/monopoly/policy/ConservativeUseOfGetOutOfJailFreeCardPolicy.java
+ org.douggschwind.games.boardgames.monopoly.policy.ConservativeUseOfGetOutOfJailFreeCardPolicy
+org/douggschwind/games/boardgames/monopoly/space/ChanceSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.ChanceSpace
+org/douggschwind/games/dicegames/boggle/Boggle.java
+ org.douggschwind.games.dicegames.boggle.Boggle
+org/douggschwind/games/cardgames/wildcardpoker/DeucesWild.java
+ org.douggschwind.games.cardgames.wildcardpoker.DeucesWild
+org/douggschwind/games/chess/moves/CommonMove.java
+ org.douggschwind.games.chess.moves.CommonMove
+org/douggschwind/games/boardgames/monopoly/actioncard/DeckFactory.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.DeckFactory
+org/douggschwind/games/dicegames/boggle/Boggle4x4Dice.java
+ org.douggschwind.games.dicegames.boggle.Boggle4x4Dice
+org/douggschwind/games/boardgames/monopoly/space/RailroadBoardSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.RailroadBoardSpace
+org/douggschwind/games/boardgames/monopoly/actioncard/PerPropertyDebitCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.PerPropertyDebitCard
+org/douggschwind/games/cardgames/euchre/ClassicEuchre.java
+ org.douggschwind.games.cardgames.euchre.ClassicEuchre
+org/douggschwind/games/boardgames/monopoly/space/IncomeTaxSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.IncomeTaxSpace
+org/douggschwind/games/chess/ChessBoard.java
+ org.douggschwind.games.chess.ChessBoard
+org/douggschwind/games/cardgames/common/AbstractPlayer.java
+ org.douggschwind.games.cardgames.common.AbstractPlayer
+org/douggschwind/games/cardgames/poker/common/FourOfAKind.java
+ org.douggschwind.games.cardgames.poker.common.FourOfAKind
+org/douggschwind/games/boardgames/monopoly/policy/HighestValuedAssetLiquidationPolicy.java
+ org.douggschwind.games.boardgames.monopoly.policy.HighestValuedAssetLiquidationPolicy
+ org.douggschwind.games.boardgames.monopoly.policy.HighestValuedAssetLiquidationPolicy$1
+org/douggschwind/games/cardgames/poker/common/MatchedKind.java
+ org.douggschwind.games.cardgames.poker.common.MatchedKind
+org/douggschwind/games/cardgames/poker/common/Flush.java
+ org.douggschwind.games.cardgames.poker.common.Flush
+org/douggschwind/games/chess/piece/Knight.java
+ org.douggschwind.games.chess.piece.Knight
+org/douggschwind/games/boardgames/monopoly/space/LuxuryTaxSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.LuxuryTaxSpace
+org/douggschwind/games/chess/piece/King.java
+ org.douggschwind.games.chess.piece.King
+org/douggschwind/games/cardgames/wildcardpoker/WildCardHandFactory.java
+ org.douggschwind.games.cardgames.wildcardpoker.WildCardHandFactory
+org/douggschwind/games/chess/piece/Queen.java
+ org.douggschwind.games.chess.piece.Queen
+org/douggschwind/games/boardgames/monopoly/space/BoardSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.BoardSpace
+org/douggschwind/games/cardgames/poker/common/Pair.java
+ org.douggschwind.games.cardgames.poker.common.Pair
+org/douggschwind/games/boardgames/monopoly/actioncard/PlayerCreditCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.PlayerCreditCard
+org/douggschwind/games/cardgames/poker/common/Straight.java
+ org.douggschwind.games.cardgames.poker.common.Straight
+org/douggschwind/games/dicegames/boggle/LetterNode.java
+ org.douggschwind.games.dicegames.boggle.LetterNode
+org/douggschwind/games/cardgames/poker/common/HighCard.java
+ org.douggschwind.games.cardgames.poker.common.HighCard
+org/douggschwind/games/boardgames/monopoly/Player.java
+ org.douggschwind.games.boardgames.monopoly.Player
+ org.douggschwind.games.boardgames.monopoly.Player$Avatar
+org/douggschwind/games/cardgames/poker/common/ThreeOfAKind.java
+ org.douggschwind.games.cardgames.poker.common.ThreeOfAKind
+org/douggschwind/games/boardgames/monopoly/actioncard/AdvanceToCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.AdvanceToCard
+ org.douggschwind.games.boardgames.monopoly.actioncard.AdvanceToCard$Location
+org/douggschwind/games/cardgames/wildcardpoker/ThreeWildCardsHand.java
+ org.douggschwind.games.cardgames.wildcardpoker.ThreeWildCardsHand
+org/douggschwind/games/boardgames/monopoly/space/PrivateBoardSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.PrivateBoardSpace
+org/douggschwind/games/chess/piece/Rook.java
+ org.douggschwind.games.chess.piece.Rook
+org/douggschwind/games/chess/Square.java
+ org.douggschwind.games.chess.Square
+org/douggschwind/games/cardgames/common/DeckFactory.java
+ org.douggschwind.games.cardgames.common.DeckFactory
+org/douggschwind/games/cardgames/poker/common/FullHouse.java
+ org.douggschwind.games.cardgames.poker.common.FullHouse
+org/douggschwind/games/boardgames/monopoly/BuildingSummary.java
+ org.douggschwind.games.boardgames.monopoly.BuildingSummary
+org/douggschwind/games/boardgames/monopoly/space/PublicBoardSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.PublicBoardSpace
+org/douggschwind/games/cardgames/wildcardpoker/WildCardGame.java
+ org.douggschwind.games.cardgames.wildcardpoker.WildCardGame
+org/douggschwind/games/common/DeckOfCards.java
+ org.douggschwind.games.common.DeckOfCards
+org/douggschwind/games/cardgames/poker/common/RoyalFlush.java
+ org.douggschwind.games.cardgames.poker.common.RoyalFlush
+org/douggschwind/games/chess/piece/ChessPiece.java
+ org.douggschwind.games.chess.piece.ChessPiece
+org/douggschwind/games/boardgames/monopoly/actioncard/ActionCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.ActionCard
+org/douggschwind/games/boardgames/monopoly/actioncard/AbstractCreditCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.AbstractCreditCard
+org/douggschwind/games/cardgames/poker/common/StraightFlush.java
+ org.douggschwind.games.cardgames.poker.common.StraightFlush
+org/douggschwind/games/boardgames/monopoly/actioncard/PerOpponentCreditCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.PerOpponentCreditCard
+org/douggschwind/games/cardgames/common/StandardDeckCardGame.java
+ org.douggschwind.games.cardgames.common.StandardDeckCardGame
+org/douggschwind/games/boardgames/monopoly/space/FreeParkingSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.FreeParkingSpace
+org/douggschwind/games/boardgames/monopoly/space/UtilityBoardSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.UtilityBoardSpace
+org/douggschwind/games/cardgames/poker/common/TwoPair.java
+ org.douggschwind.games.cardgames.poker.common.TwoPair
+org/douggschwind/games/cardgames/common/FrenchSuitedPlayingCard.java
+ org.douggschwind.games.cardgames.common.FrenchSuitedPlayingCard
+ org.douggschwind.games.cardgames.common.FrenchSuitedPlayingCard$1
+ org.douggschwind.games.cardgames.common.FrenchSuitedPlayingCard$Kind
+ org.douggschwind.games.cardgames.common.FrenchSuitedPlayingCard$Suit
+org/douggschwind/games/cardgames/common/Player.java
+ org.douggschwind.games.cardgames.common.Player
+org/douggschwind/games/chess/moves/ChessMove.java
+ org.douggschwind.games.chess.moves.ChessMove
+org/douggschwind/games/cardgames/wildcardpoker/TypeOfStraightThatCanBeFormed.java
+ org.douggschwind.games.cardgames.wildcardpoker.TypeOfStraightThatCanBeFormed
+ org.douggschwind.games.cardgames.wildcardpoker.TypeOfStraightThatCanBeFormed$StraightType
+org/douggschwind/games/dicegames/boggle/BoardLocationsVisited.java
+ org.douggschwind.games.dicegames.boggle.BoardLocationsVisited
+org/douggschwind/games/chess/piece/Bishop.java
+ org.douggschwind.games.chess.piece.Bishop
+org/douggschwind/games/boardgames/monopoly/space/CommunityChestSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.CommunityChestSpace
+org/douggschwind/games/cardgames/poker/common/HandStrength.java
+ org.douggschwind.games.cardgames.poker.common.HandStrength
+org/douggschwind/games/cardgames/wildcardpoker/OneWildCardHand.java
+ org.douggschwind.games.cardgames.wildcardpoker.OneWildCardHand
+org/douggschwind/games/boardgames/monopoly/policy/AssetLiquidationPolicy.java
+ org.douggschwind.games.boardgames.monopoly.policy.AssetLiquidationPolicy
+org/douggschwind/games/dicegames/boggle/Boggle5x5Dice.java
+ org.douggschwind.games.dicegames.boggle.Boggle5x5Dice
+org/douggschwind/games/boardgames/monopoly/policy/LowestValuedAssetLiquidationPolicy.java
+ org.douggschwind.games.boardgames.monopoly.policy.LowestValuedAssetLiquidationPolicy
+ org.douggschwind.games.boardgames.monopoly.policy.LowestValuedAssetLiquidationPolicy$1
+org/douggschwind/games/chess/piece/Pawn.java
+ org.douggschwind.games.chess.piece.Pawn
+ org.douggschwind.games.chess.piece.Pawn$AdvancingDirection
+org/douggschwind/games/dicegames/boggle/WordTree.java
+ org.douggschwind.games.dicegames.boggle.WordTree
+org/douggschwind/games/cardgames/wildcardpoker/WildCardHand.java
+ org.douggschwind.games.cardgames.wildcardpoker.WildCardHand
+org/douggschwind/games/cardgames/wildcardpoker/OneEyedJacksWild.java
+ org.douggschwind.games.cardgames.wildcardpoker.OneEyedJacksWild
+org/douggschwind/games/cardgames/wildcardpoker/TwoWildCardsHand.java
+ org.douggschwind.games.cardgames.wildcardpoker.TwoWildCardsHand
+org/douggschwind/games/boardgames/monopoly/actioncard/LifeInsuranceMaturesCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.LifeInsuranceMaturesCard
+org/douggschwind/games/boardgames/monopoly/actioncard/PerOpponentDebitCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.PerOpponentDebitCard
+org/douggschwind/games/common/AbstractCard.java
+ org.douggschwind.games.common.AbstractCard
+org/douggschwind/games/cardgames/poker/common/FiveOfAKind.java
+ org.douggschwind.games.cardgames.poker.common.FiveOfAKind
+org/douggschwind/games/boardgames/monopoly/space/GoDirectlyToJailSpace.java
+ org.douggschwind.games.boardgames.monopoly.space.GoDirectlyToJailSpace
+org/douggschwind/games/cardgames/poker/TexasHoldEm.java
+ org.douggschwind.games.cardgames.poker.TexasHoldEm
+org/douggschwind/games/boardgames/monopoly/Monopoly.java
+ org.douggschwind.games.boardgames.monopoly.Monopoly
+ org.douggschwind.games.boardgames.monopoly.Monopoly$1
+org/douggschwind/games/boardgames/monopoly/actioncard/AbstractDebitCard.java
+ org.douggschwind.games.boardgames.monopoly.actioncard.AbstractDebitCard

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" tests="32" skipped="0" failures="0" errors="0" timestamp="2022-12-13T06:31:34" hostname="LAPTOP-GOCSKIF4" time="0.018">
+  <properties/>
+  <testcase name="testDetermineWinnersNotMatchingHighCardHands1" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersNotMatchingHighCardHands2" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersNotMatchingHighCardHands3" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoMatchingStraightFlushHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoFullHouseHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoMatchingRoyalFlushHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersMatchingPairMatchingHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoMatchingStraightHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersMatchingHighCardHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingThreeOfAKindHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoMatchingFourOfAKindHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnerWithFiveOfAKindWithFourWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingButAceBasedStraightFlushHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoDifferentFourOfAKindHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingButAceBasedStraightHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoMatchingFlushHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersNotMatchingPairHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoMatchingPairNotMatchingHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoMatchingPairMatchingHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnerWithFiveOfAKindWithOneWildCard" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingFlushHands1" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingFlushHands2" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingFlushHands3" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersMatchingPairNotMatchingHands1" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersMatchingPairNotMatchingHands2" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingStraightFlushHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnerWithFiveOfAKindWithTwoWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingStraightHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoPairNotMatchingHands" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnerWithFiveOfAKindWithThreeWildCards" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoMatchingFourOfAKindHandsWithDecidingTiebreakerCard1" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoMatchingFourOfAKindHandsWithDecidingTiebreakerCard2" classname="org.douggschwind.games.cardgames.wildcardpoker.DeucesWildTestTwoPlayers" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
