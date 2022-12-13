@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" tests="25" skipped="0" failures="0" errors="0" timestamp="2022-12-13T06:31:34" hostname="LAPTOP-GOCSKIF4" time="0.013">
+<testsuite name="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" tests="25" skipped="0" failures="0" errors="0" timestamp="2022-12-13T06:43:38" hostname="LAPTOP-GOCSKIF4" time="0.013">
   <properties/>
-  <testcase name="testDetermineWinnersNotMatchingHighCardHands1" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersNotMatchingHighCardHands1" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
   <testcase name="testDetermineWinnersNotMatchingHighCardHands2" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
   <testcase name="testDetermineWinnersNotMatchingHighCardHands3" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
-  <testcase name="testDetermineWinnersTwoMatchingStraightFlushHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
-  <testcase name="testDetermineWinnersTwoFullHouseHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
-  <testcase name="testDetermineWinnersTwoMatchingRoyalFlushHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
-  <testcase name="testDetermineWinnersMatchingPairMatchingHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoMatchingStraightFlushHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoFullHouseHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoMatchingRoyalFlushHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersMatchingPairMatchingHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
   <testcase name="testDetermineWinnersTwoMatchingStraightHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
-  <testcase name="testDetermineWinnersTwoFourOfAKindHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
-  <testcase name="testDetermineWinnersMatchingHighCardHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoFourOfAKindHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersMatchingHighCardHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
   <testcase name="testDetermineWinnersTwoNotMatchingThreeOfAKindHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
-  <testcase name="testDetermineWinnersTwoNotMatchingButAceBasedStraightFlushHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingButAceBasedStraightFlushHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
   <testcase name="testDetermineWinnersTwoNotMatchingButAceBasedStraightHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
   <testcase name="testDetermineWinnersTwoMatchingFlushHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
-  <testcase name="testDetermineWinnersNotMatchingPairHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
-  <testcase name="testDetermineWinnersTwoMatchingPairNotMatchingHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.002"/>
-  <testcase name="testDetermineWinnersTwoMatchingPairMatchingHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
-  <testcase name="testDetermineWinnersTwoNotMatchingFlushHands1" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersNotMatchingPairHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoMatchingPairNotMatchingHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
+  <testcase name="testDetermineWinnersTwoMatchingPairMatchingHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoNotMatchingFlushHands1" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
   <testcase name="testDetermineWinnersTwoNotMatchingFlushHands2" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
   <testcase name="testDetermineWinnersTwoNotMatchingFlushHands3" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
-  <testcase name="testDetermineWinnersMatchingPairNotMatchingHands1" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersMatchingPairNotMatchingHands1" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
   <testcase name="testDetermineWinnersMatchingPairNotMatchingHands2" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
   <testcase name="testDetermineWinnersTwoNotMatchingStraightFlushHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
   <testcase name="testDetermineWinnersTwoNotMatchingStraightHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
-  <testcase name="testDetermineWinnersTwoPairNotMatchingHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.0"/>
+  <testcase name="testDetermineWinnersTwoPairNotMatchingHands" classname="org.douggschwind.games.cardgames.poker.WesternTestTwoPlayers" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
